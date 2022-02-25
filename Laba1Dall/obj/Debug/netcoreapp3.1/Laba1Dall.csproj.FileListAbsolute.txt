@@ -1,0 +1,51 @@
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.deps.json
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.runtimeconfig.json
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.runtimeconfig.dev.json
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.dll
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.pdb
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.csproj.AssemblyReference.cache
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.AssemblyInfo.cs
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.dll
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.pdb
+C:\Users\Boss\Desktop\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.genruntimeconfig.cache
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.deps.json
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.runtimeconfig.json
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.runtimeconfig.dev.json
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.dll
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.pdb
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.csproj.AssemblyReference.cache
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.AssemblyInfoInputs.cache
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.AssemblyInfo.cs
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.csproj.CoreCompileInputs.cache
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.dll
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.pdb
+D:\учеба\Триместр4\ASP.Net\Проекты\лабы\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.genruntimeconfig.cache
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.deps.json
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.runtimeconfig.json
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.runtimeconfig.dev.json
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.dll
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.pdb
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.csprojAssemblyReference.cache
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.AssemblyInfoInputs.cache
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.AssemblyInfo.cs
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.csproj.CoreCompileInputs.cache
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.dll
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.pdb
+E:\ИИТ\Переподготовка\ВТ\Итоговый проект\Андрей_Журко\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.genruntimeconfig.cache
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.deps.json
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.runtimeconfig.json
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.runtimeconfig.dev.json
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.dll
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\bin\Debug\netcoreapp3.1\Laba1Dall.pdb
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.csproj.AssemblyReference.cache
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.AssemblyInfoInputs.cache
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.AssemblyInfo.cs
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.dll
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.pdb
+D:\УЧЁБА\веблекц\Laba1\Laba1Dall\obj\Debug\netcoreapp3.1\Laba1Dall.genruntimeconfig.cache
